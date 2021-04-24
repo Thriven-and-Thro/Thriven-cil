@@ -1,0 +1,31 @@
+{
+  "name": "thriven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "thriven": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "thriven",
+    "cf",
+    "cli"
+  ],
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "thriven",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6",
+    "open": "^8.0.5"
+  }
+}
